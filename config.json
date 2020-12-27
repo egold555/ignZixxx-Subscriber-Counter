@@ -1,0 +1,15 @@
+{
+	"serverPort": 3000,
+
+	"channelID": "UCoPxXmA9y0o5l3XEG135cTQ",
+
+	"request": {
+		"url": "https://bastet.socialblade.com/youtube/lookup?query=",
+		"headers": {
+			"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36",
+			"referer": "https://socialblade.com/",
+			"accept-language": "en-US,en;q=0.9",
+			"Cookie": "__cfduid=d57a74932e7623da62c391ea2f72715391609028555"
+		}
+	}
+}
